@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Curso JS"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\NLW"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NLW"
+	}
+}
